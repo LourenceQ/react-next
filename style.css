@@ -37,7 +37,7 @@ p {margin:0 0 1.4em;}
 #leftside ul.avmenu ul ul a, #rightside ul.avmenu ul ul a {width:100px;}
 
 /* Main content */
-#content {border-left:1px solid #e0e0e0; border-right:1px solid #e0e0e0; line-height:1.5em; margin:0 150px 5px; padding:0 10px; text-align:justify;}
+/* #content {border-left:1px solid #e0e0e0; border-right:1px solid #e0e0e0; line-height:1.5em; margin:0 150px 5px; padding:0 10px; text-align:justify;}
 #contentwide {border-left:1px solid #e0e0e0; line-height:1.5em; margin:0 0 5px 150px; padding:0 0 0 10px;}
 #contentwide2 {border-right:1px solid #e0e0e0; line-height:1.5em; margin:0 150px 5px 0; padding:0 10px 0 0;}
 #content h2,#contentwide h2,#contentwide2 h2 {font-size:1.6em; margin:0 0 10px; text-align: justify;}
@@ -45,7 +45,7 @@ p {margin:0 0 1.4em;}
 #content img,#contentwide img,#contentwide2 img {background:#ccc; border:4px solid #f0f0f0; color:#303030; display:inline; padding:1px;}
 #content ul,#contentwide ul,#contentwide2 ul,#content ol,#contentwide ol,#contentwide2 ol {margin:0 0 16px 20px; padding:0;}
 #content li,#contentwide li,#contentwide2 li {margin:0; padding:0 0 0 5px;}
-#content ul ul,#contentwide ul ul,#contentwide2 ul ul,#content ol ol,#contentwide ol ol,#contentwide2 ol ol {margin:0 0 0 16px; padding:0;}
+#content ul ul,#contentwide ul ul,#contentwide2 ul ul,#content ol ol,#contentwide ol ol,#contentwide2 ol ol {margin:0 0 0 16px; padding:0;} */
 
 /* Footer */
 #footer {background:#fff; border-top:2px solid #e0e0e0; clear:both; color:gray; margin:0 auto; padding:10px 0; text-align:center; width:760px; line-height:1.5em; font-size:0.9em;}
