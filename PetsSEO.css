@@ -13,7 +13,7 @@ p {margin:0 0 1.4em;}
 #header h1 {background-color:inherit; color:#505050; float:left; font-size:2em; margin:0 0 10px; width:350px;}
 #header h1 a {background-color:inherit; color:#505050; text-decoration:none;}
 #header p {float:right; font-weight:700; line-height:1.3em; margin:8px 0 0; text-align:center; width:400px;}
-#frontphoto {border:0; margin:0 0 10px;}
+#frontphoto {border:0; margin:0 0 10px;display: block;margin-left: auto;margin-right: auto;width: 50%;}
 
 /*Left and right sidebar */
 #leftside {clear:left; float:left; margin:0 0 5px; padding:0; width:140px;}
